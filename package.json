@@ -1,0 +1,40 @@
+{
+  "name": "goerrify",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "goerrify is a lightweight utility library that brings Go-style error handling to your JavaScript and TypeScript projects. It provides two simple yet powerful functions, errify and errifyAll, that enable you to handle asynchronous operations with the clarity and safety of Go's result-error pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x4139/goerrify.git"
+  },
+  "keywords": [
+    "\"go-style\"",
+    "\"error-handling\"",
+    "\"async\"",
+    "\"promise\"",
+    "\"typescript\"",
+    "\"javascript\"",
+    "\"error-management\"",
+    "\"result-error\"",
+    "\"wrapper\"",
+    "\"errify\"",
+    "\"try-catch\"",
+    "\"async-await\"",
+    "\"functional-programming\"",
+    "\"nodejs\"",
+    "\"goerrify\""
+  ],
+  "author": "Vali Malinoiu <0x4139@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x4139/goerrify/issues"
+  },
+  "homepage": "https://github.com/0x4139/goerrify#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
