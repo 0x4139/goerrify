@@ -1,7 +1,6 @@
 {
   "name": "goerrify",
-  "version": "1.0.1",
-  "type": "module",
+  "version": "1.0.2",
   "description": "goerrify is a lightweight utility library that brings Go-style error handling to your JavaScript and TypeScript projects. It provides two simple yet powerful functions, errify and errifyAll, that enable you to handle asynchronous operations with the clarity and safety of Go's result-error pattern.",
   "main": "src/index.js",
   "exports": {
